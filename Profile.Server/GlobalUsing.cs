@@ -1,0 +1,13 @@
+﻿global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using Profile.Server.IServices;
+global using Microsoft.AspNetCore.Mvc;
+global using Profile.Server.Settings; 
+global using Profile.Server.Services;
+global using Profile.Server.Helpers;
+global using Profile.Server.Models; 
+global using Profile.Server.Data;
+global using Profile.Server.DTO;
+global using Profile.Server;
